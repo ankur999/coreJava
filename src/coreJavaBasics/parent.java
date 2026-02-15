@@ -17,6 +17,8 @@ public class parent {
 	@AfterMethod
 	public void after() {
 		System.out.println("will run last");
+		System.out.println("will run last last");
+		System.out.println("will run last last three");
 	}
 
 }
