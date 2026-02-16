@@ -18,6 +18,10 @@ public class child3 {
 		a=a*3;
 		return a;
 	}
+	public int multiplyFour() {
+		a=a*4;
+		return a;
+	}
 
 	
 }

@@ -18,6 +18,7 @@ public class child extends parent{
 		
 		System.out.println(c3.multiplyTwo());
 		System.out.println(c2.multiplyThree());
+		System.out.println(c2.multiplyFour());
 		
 	}
 
